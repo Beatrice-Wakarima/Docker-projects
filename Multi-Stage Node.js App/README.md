@@ -12,8 +12,6 @@ This approach reduces image size by separating build and runtime environments.
 ```text
 node-multi-stage/
 ├── Dockerfile
-├── package.json
-├── package-lock.json
 └── server.js
 ```
 ## Docker Design
