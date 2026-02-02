@@ -12,6 +12,7 @@ This project demonstrates basic containerization, image creation, and port mappi
 nginx-web-server/
 ├── Dockerfile
 └── index.html
+```
 
 ## Docker Design
 Base image: nginx:alpine
