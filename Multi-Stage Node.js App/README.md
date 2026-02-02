@@ -6,7 +6,7 @@ This approach reduces image size by separating build and runtime environments.
 ## Tech Stack
 - Docker
 - Node.js
-- Nginx (optional for static files)
+- Nginx
 
 ## Project Structure
 ```text
